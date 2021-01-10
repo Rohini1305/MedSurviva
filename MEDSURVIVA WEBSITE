@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MedSurViVa |Home</title>
+  </head>
+  <body>
+     
+      <h1 style="color: rgb(255, 0, 0);"><b>MedSurViVa</b></h1> 
+      <nav>
+          <a href="#">Home</a>
+          <a href="#">pharmacy</a>
+          <a href="#">doctorsaroundyou</a>
+          <a href="#">reviews</a>
+          <main>
+              <section>
+                  <h2 style="background-color: darkkhaki;">Introduction</h2>
+                  <img src="health.jfif" width=300>
+                  <video src="da5b16_8ff4704fe85145f9ac4a3185ca9ce6d8_mv2.gif" width="200">
+              </section>
+          </main>
+      </nav>
+      <hr>
+      <p style="color: rgb(7, 7, 7);">Doctors and hospitals use a medical history of a patient to review his/her health history. It’s a very important part of their workflow <br> to ensure they’re providing the best care and treatment. A patient’s medical history may include details about <b>past diseases, illnesses running in <br> the family, previous diagnoses, medical abstract, therapies, allergies, and medication. </b> <br> Yes, this is not the whole picture but with the help of a detailed medical history, doctors can see health patterns of patients over time at a glance.</p>
+      <h2 style="color: deeppink;">Go PaPerless</h2>
+      
+      <p style="font-size: 90%;">Securely manage patient records, treatments and prescriptions. Provide a paperless experience that delights patients</p>
+
+    
+      <h2>Login</h2>
+      <p>
+          Aadhaar no.:* <input type="number" name="aadhaar" id="aadhaar" required> <br>
+          Date of Birth:* <input type="date" name="D.O.B." id="D.O.B" required>
+      </p>
+      <input type="submit" value= "Submit">
+       <hr>
+       <p>Get registered to MedSurViVa using the following link</p>
+       <a href="https://docs.google.com/forms/d/e/1FAIpQLScmRKTvqxA2mcI6klVks1x8LEnTyB8-NtMwSFtuqvx4ZpLYqg/viewform?usp=sf_link" target="_blank">google form </a>
+      <footer>
+        <a href="#">FAQ</a>
+        <a href="#">Contact us</a>
+        <a href="#">Terms of use</a>
+        <a href="#">Privacy policy</a>
+        <a href="#">&copy;</a>
+    </footer>  
+  </body>
+</html>
